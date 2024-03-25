@@ -1,0 +1,8 @@
+1,mate,10-12
+2,romana,11-12
+3,informatica,12-12
+4,biologie,13-12
+5,mate,10-12
+6,chimie,10-11
+7,mate,10-11
+8,sport,10-9
